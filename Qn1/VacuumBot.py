@@ -8,11 +8,8 @@ class Environment:
         self.locations = environment
     
     def isDirty(self, position):
-        if self.locations[position] == 0:
-            return 0
-        else:
-            return 1
-    
+        return self.locations[position]
+        
     def __str__(self):
         return "Environment [A:%s, B:%s]"\
             % (("Dirty" if self.locations[0] == 1 else "Clean"),\
