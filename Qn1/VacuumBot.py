@@ -1,10 +1,11 @@
 # The code is only for simulation understanding purposes. All methods are purposely unoptimized to simulate the scenario.
+import random
 
 class Environment:
-    def __init__(self, stateA, stateB):
+    def __init__(self, environment):
         # Position[0] is for A, Position[1] is for B
         # 0 indicates clean, 1 indicates dirty
-        self.locations = [stateA, stateB] 
+        self.locations = environment
     
     def isDirty(self, position):
         if self.locations[position] == 0:
@@ -18,44 +19,55 @@ class Environment:
                ("Dirty" if self.locations[1] == 1 else "Clean"))
 
 class bot:
-    def __init__(self, startPos, environment):
+    def __init__(self, startPos, environment, showOutput):
         self.position = startPos
         self.score = 0
-        self.environment = environment
+        self.environment = Environment(environment)
+        self.showOutput = showOutput
 
     def suck(self):
         self.environment.locations[self.position] = 0
         self.score += 1
     
     def move(self):
-        if self.position == 0:
-            self.position = 1
-        else:
-            self.position = 0
+        newPos = random.randint(0,1)
+
+        # Only print output if asked
+        if self.showOutput:
+            print(("Moved %s" % ("Left" if newPos==0 else "Right")), end='')
+            if self.position == newPos:
+                print(". But bot was already here.")
+            else:
+                print()
+
+        self.position = newPos
     
-    def startBot(self):
-        # Limiting moves to 2 as beyond that it won't be necessary. The 'moves' variable is hence temporary and not a part of the bot.
+    def runSimulation(self):
+
+        # Print initial details
+        print(self.environment)
+        print("Start Position: ", self.position)
+        
+        # Running the simulation for 1000 timesteps.
         moves = 0
-        while moves < 2:
+        while moves < 1000:
             if self.environment.isDirty(self.position):
                 self.suck()
-                self.move()
-                moves += 1
             else:
-                self.score -= 1
                 self.move()
-                moves += 1
-        return self.score
+            moves += 1
+        
+        print("Performance Score: ", self.score)
         
 def main():
-    theEnvironment = Environment(1, 0)
-    startPosition = 0
-
-    # Driver code   
-    Bot = bot(startPosition, theEnvironment)
-    print(theEnvironment)
-    print("StartPosition: ", startPosition)
-    print("Performance Score: ", Bot.startBot())
+    # Iterates through all possible combinations
+    for startPosition in range(2):
+        for A in range(2):
+            for B in range(2):
+                Bot = bot(startPosition, [A, B], False)
+                Bot.runSimulation()
+                print()
+    
 
 if __name__ == '__main__':
     main()
