@@ -26,7 +26,9 @@ class bot:
         self.showOutput = showOutput
 
     def suck(self):
-        print(self.position,"has been sucked. It is now clean.")
+        # Only print output if asked
+        if self.showOutput:
+            print(self.position,"has been sucked. It is now clean.")
         self.environment.locations[self.position] = 0
         self.score += 1
     
