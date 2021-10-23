@@ -11,12 +11,12 @@ def minimax(position, maximizingPlayer):
         pileChosen = 1
         # Take from Pile 1
         for pile1 in range(1, position[0] + 1):
-            currEval = minimax([position[0] - pile1, position[1]], True)
+            currEval = minimax([position[0] - pile1, position[1]], False)
             maxEval = max(maxEval, currEval)
         
         # Take from Pile 2        
         for pile2 in range(1, position[1] + 1):
-            currEval = minimax([position[0], position[1] - pile2], True)
+            currEval = minimax([position[0], position[1] - pile2], False)
             if maxEval < currEval:
                 pileChosen = 2
             maxEval = max(maxEval, currEval)
@@ -45,4 +45,4 @@ def minimax(position, maximizingPlayer):
         print(position)
         return minEval
 
-print(minimax([3,3], True))
+print(minimax([6,3], True))
