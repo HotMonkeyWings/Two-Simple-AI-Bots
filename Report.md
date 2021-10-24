@@ -11,3 +11,7 @@ After running 2 simulations for 1000 timesteps each, these are the results for a
 ![SSSG](Qn1/State.jpg "State Space Search Graph")
 
 ## Solution 2
+Here, I've used recursion for the minimax function. The algorithm stores the best paths for each player at each state in pathsTaken[].
+
+Let us take an example of [5,3] as used in the question.
+(Not finished. Human Player interaction to be established.)

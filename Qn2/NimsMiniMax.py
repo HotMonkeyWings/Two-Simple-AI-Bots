@@ -27,6 +27,7 @@ def minimax(state, maximizingPlayer=True, showOutput=False):
             if maxEval < currEval:
                 pileChosen = [2, [state[0], state[1] - pile2], pile2]
             maxEval = max(maxEval, currEval)
+            # (Hey this code was made by Dev Sony, B180297CS)
         if maxEval != -10000:
             if showOutput:
                 print("Position was", state)
@@ -55,15 +56,23 @@ def minimax(state, maximizingPlayer=True, showOutput=False):
             minEval = min(minEval, currEval)
         if minEval != 10000:
             if showOutput:
+                # (Hey this code was made by Dev Sony, B180297CS)
                 print("Position was", state)
                 print("Player 2 Chooses Pile", pileChosen[0], "and took", str(pileChosen[2]),"stones. Pile states are",pileChosen[1])
                 print("MinEval=", minEval)
             pathTaken[1][tuple(state)] = tuple(pileChosen[1])
         return minEval
 
+
 def main():
+    # Tweak the start position
     startPile = [3,4]
+
+    # Driver code
     result = minimax(startPile, True)
+
+    for key in pathTaken[0]:
+        print(key, "to", )
 
     # Setting initial values to traverse through pathsTaken
     startPile = tuple(startPile)
