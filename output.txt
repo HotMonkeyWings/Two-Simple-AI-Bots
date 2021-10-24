@@ -1,0 +1,1953 @@
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 3]
+Player 1 Chooses Pile 2 and took 3 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 3]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 2]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 2]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 3]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 2]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 2]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 1]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 3]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [2, 3]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 3]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 3]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [2, 2]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 3]
+Player 1 Chooses Pile 2 and took 3 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 3]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 2]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 2]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 1]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 1]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [4, 0]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [4, 2]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [2, 2]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [4, 1]
+Player 1 Chooses Pile 1 and took 4 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [4, 0]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 3]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 3]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [2, 2]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 3]
+Player 1 Chooses Pile 2 and took 3 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 3]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 2]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [2, 2]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 1]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 3]
+Player 1 Chooses Pile 2 and took 3 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 3]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 2]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 2]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 3]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 2]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 2]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 1]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 1]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [4, 0]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [4, 2]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [2, 2]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 2]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [2, 2]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 2]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 2]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 2]
+Player 1 Chooses Pile 2 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 2]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 1]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [4, 0]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [4, 0]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [5, 1]
+Player 1 Chooses Pile 1 and took 5 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [5, 0]
+Player 1 Chooses Pile 1 and took 4 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [4, 1]
+Player 1 Chooses Pile 1 and took 4 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 1]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 1]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [1, 1]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 1]
+MaxEval= 1
+
+Position was [0, 1]
+Player 1 Chooses Pile 2 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [5, 0]
+Player 1 Chooses Pile 1 and took 4 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [4, 0]
+Player 1 Chooses Pile 1 and took 3 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [3, 0]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [2, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [1, 0]
+MaxEval= 1
+
+Position was [1, 0]
+Player 1 Chooses Pile 1 and took 1 stones. Pile states are [0, 0]
+MaxEval= -1
+
+Position was [5, 3]
+Player 1 Chooses Pile 1 and took 2 stones. Pile states are [3, 3]
+MaxEval= 1
+
+1
