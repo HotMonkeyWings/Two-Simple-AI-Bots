@@ -71,8 +71,13 @@ def main():
     # Driver code
     result = minimax(startPile, True)
 
+    print("Player 1's best moves from reachable state:")
     for key in pathTaken[0]:
-        print(key, "to", )
+        print(key, "to", pathTaken[0][key])
+
+    print("\nPlayer 2's best moves from reachable state:")
+    for key in pathTaken[1]:
+        print(key, "to", pathTaken[1][key])
 
     # Setting initial values to traverse through pathsTaken
     startPile = tuple(startPile)
