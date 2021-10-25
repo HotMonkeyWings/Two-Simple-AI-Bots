@@ -3,6 +3,13 @@ pathTaken = [
     dict()              # Player 2
 ]
 
+def findMove(startPile, endPile):
+    if startPile[0] == endPile[0]:
+        print("Bot took", startPile[1] - endPile[1],"stones from Pile 2.")
+    if startPile[1] == endPile[1]:
+        print("Bot took", startPile[0] - endPile[0],"stones from Pile 1.")
+
+
 def minimax(state, maximizingPlayer=True, showOutput=False):
     # Check if final state is attained
     if state[0] == state[1] == 0:
@@ -72,27 +79,42 @@ def main():
     # Driver code
     result = minimax(startPile, True)
 
-    print("Player 1's best moves from reachable state:")
-    for key in pathTaken[0]:
-        print(key, "to", pathTaken[0][key])
+    # print("Player 1's best moves from reachable state:")
+    # for key in pathTaken[0]:
+    #     print(key, "to", pathTaken[0][key])
 
-    print("\nPlayer 2's best moves from reachable state:")
-    for key in pathTaken[1]:
-        print(key, "to", pathTaken[1][key])
+    # print("\nPlayer 2's best moves from reachable state:")
+    # for key in pathTaken[1]:
+    #     print(key, "to", pathTaken[1][key])
 
-    print()
+    # print()
     # Setting initial values to traverse through pathsTaken
-    startPile = tuple(startPile)
-    toggle = 0                                  # Player 1 always starts.
-    newPile = pathTaken[toggle][startPile]
+    # startPile = tuple(startPile)
+    # toggle = 0                                  # Player 1 always starts.
+    # newPile = pathTaken[toggle][startPile]
     
-    while 1:
-        print("Player", toggle + 1, ":", startPile, "to", newPile)
-        if newPile == (0, 0):
-            print("Hence, Player", toggle + 1, "wins!")
+    while startPile != [0, 0]:
+        # print("Player", toggle + 1, ":", startPile, "to", newPile)
+        # if newPile == (0, 0):
+        #     print("Hence, Player", toggle + 1, "wins!")
+        #     break
+        # toggle = 0 if toggle == 1 else 1
+        # startPile, newPile = newPile, pathTaken[toggle][newPile]
+
+        print("Pile is at", startPile)
+        pile = int(input("Pile 1 or 2?: ")) - 1
+        stones = int(input("Enter number of stones to pick: "))
+        startPile[pile] -= stones
+        print("Pile is now", startPile)
+        if startPile == [0, 0]:
+            print("You win!")
             break
-        toggle = 0 if toggle == 1 else 1
-        startPile, newPile = newPile, pathTaken[toggle][newPile]
+        newPile = [pathTaken[1][tuple(startPile)][0], pathTaken[1][tuple(startPile)][1]]
+        print()
+        findMove(startPile, newPile)
+        startPile[:] = newPile[:]
+    else:
+        print("Pile is now at [0, 0]\n Bot wins!")
 
 if __name__ == "__main__":
     main()
