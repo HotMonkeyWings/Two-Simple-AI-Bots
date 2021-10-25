@@ -7,8 +7,8 @@ def minimax(state, maximizingPlayer=True, showOutput=False):
     # Check if final state is attained
     if state[0] == state[1] == 0:
         if maximizingPlayer:
-            return 1
-        return -1
+            return -1
+        return 1
 
     pileChosen = [1,[state[0]], state[1], 0]
     # Player 1
@@ -60,13 +60,14 @@ def minimax(state, maximizingPlayer=True, showOutput=False):
                 print("Position was", state)
                 print("Player 2 Chooses Pile", pileChosen[0], "and took", str(pileChosen[2]),"stones. Pile states are",pileChosen[1])
                 print("MinEval=", minEval)
+                print()
             pathTaken[1][tuple(state)] = tuple(pileChosen[1])
         return minEval
 
 
 def main():
     # Tweak the start position
-    startPile = [3,4]
+    startPile = [5, 3]
 
     # Driver code
     result = minimax(startPile, True)
@@ -79,6 +80,7 @@ def main():
     for key in pathTaken[1]:
         print(key, "to", pathTaken[1][key])
 
+    print()
     # Setting initial values to traverse through pathsTaken
     startPile = tuple(startPile)
     toggle = 0                                  # Player 1 always starts.
@@ -87,7 +89,7 @@ def main():
     while 1:
         print("Player", toggle + 1, ":", startPile, "to", newPile)
         if newPile == (0, 0):
-            print("Hence, Player", toggle + 1, "ends up with no stones left and lost.")
+            print("Hence, Player", toggle + 1, "wins!")
             break
         toggle = 0 if toggle == 1 else 1
         startPile, newPile = newPile, pathTaken[toggle][newPile]
