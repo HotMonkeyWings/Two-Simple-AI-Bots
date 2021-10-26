@@ -1,3 +1,5 @@
+from functools import cache
+
 pathTaken = [
     dict(),             # Player 1 
     dict()              # Player 2
@@ -5,7 +7,7 @@ pathTaken = [
 
 def moveBot(startPile):    
     # Find the new path from pathTaken[] and convert to list.
-    newPile = [pathTaken[1][tuple(startPile)][0], pathTaken[1][tuple(startPile)][1]]
+    newPile = (pathTaken[1][tuple(startPile)][0], pathTaken[1][tuple(startPile)][1])
 
     # Print the move to player
     if startPile[0] == newPile[0]:
@@ -16,6 +18,7 @@ def moveBot(startPile):
     return newPile
 
 
+@cache
 def minimax(state, maximizingPlayer=True, showOutput=False):
     # Check if final state is attained
     if state[0] == state[1] == 0:
@@ -23,22 +26,22 @@ def minimax(state, maximizingPlayer=True, showOutput=False):
             return -1
         return 1
 
-    pileChosen = [1,[state[0]], state[1], 0]
+    pileChosen = [1,(state[0], state[1]), 0]
     # Player 1
     if maximizingPlayer:
         maxEval = -10000
         # Take from Pile 1
         for pile1 in range(1, state[0] + 1):
-            currEval = minimax([state[0] - pile1, state[1]], False, showOutput)
+            currEval = minimax((state[0] - pile1, state[1]), False, showOutput)
             if maxEval < currEval:
-                pileChosen = [1, [state[0] - pile1, state[1]], pile1]
+                pileChosen = [1, (state[0] - pile1, state[1]), pile1]
             maxEval = max(maxEval, currEval)
         
         # Take from Pile 2        
         for pile2 in range(1, state[1] + 1):
-            currEval = minimax([state[0], state[1] - pile2], False, showOutput)
+            currEval = minimax((state[0], state[1] - pile2), False, showOutput)
             if maxEval < currEval:
-                pileChosen = [2, [state[0], state[1] - pile2], pile2]
+                pileChosen = [2, (state[0], state[1] - pile2), pile2]
             maxEval = max(maxEval, currEval)
             # (Hey this code was made by Dev Sony, B180297CS)
         if maxEval != -10000:
@@ -56,16 +59,16 @@ def minimax(state, maximizingPlayer=True, showOutput=False):
 
         # Take from Pile 1
         for pile1 in range(1, state[0] + 1):
-            currEval = minimax([state[0] - pile1, state[1]], True, showOutput)
+            currEval = minimax((state[0] - pile1, state[1]), True, showOutput)
             if minEval > currEval:
-                pileChosen = [1, [state[0] - pile1, state[1]], pile1]
+                pileChosen = [1, (state[0] - pile1, state[1]), pile1]
             minEval = min(minEval, currEval)
         
         # Take from Pile 2        
         for pile2 in range(1, state[1] + 1):
-            currEval = minimax([state[0], state[1] - pile2], True, showOutput)
+            currEval = minimax((state[0], state[1] - pile2), True, showOutput)
             if minEval > currEval:
-                pileChosen = [2, [state[0], state[1] - pile2], pile2]
+                pileChosen = [2, (state[0], state[1] - pile2), pile2]
             minEval = min(minEval, currEval)
         if minEval != 10000:
             if showOutput:
@@ -78,11 +81,12 @@ def minimax(state, maximizingPlayer=True, showOutput=False):
         return minEval
 
 
+
 def main():
     # Adjust the start pile
-    pileState = list(map(int, input("Enter the number of stones in each pile: ").split()))
+    pileState = tuple(map(int, input("Enter the number of stones in each pile: ").split()))
     while len(pileState) != 2:
-        pileState = list(map(int, input("Enter the number of stones in each pile: ").strip().split()))
+        pileState = tuple(map(int, input("Enter the number of stones in each pile: ").strip().split()))
         print("Only 2 piles are possible!")
 
     # Choose the move
@@ -92,18 +96,23 @@ def main():
         # Driver code
         result = minimax(pileState, True)
 
-        while pileState != [0, 0]:
+        while pileState != (0, 0):
             print("\n==Player Move==")
             print("Pile is at", pileState)
             pile = int(input("Pile 1 or 2?: ")) - 1
             stones = int(input("Enter number of stones to pick: "))
-            pileState[pile] -= stones
+
+            if pile == 0:
+                pileState = (pileState[0] - stones, pileState[1])
+            else:
+                pileState = (pileState[0], pileState[1] - stones)
+
             print("Pile is now", pileState)
-            if pileState == [0, 0]:
+            if pileState == (0, 0):
                 print("You win!")
                 break
             print("\n==Bot's Move==")
-            pileState[:] = moveBot(pileState)[:]
+            pileState = moveBot(pileState)
         else:
             print("\n==Player Move==\nPile is now at [0, 0]\nBot wins!")
     
@@ -111,10 +120,10 @@ def main():
         # Driver code
         result = minimax(pileState, False)
 
-        while pileState != [0, 0]:
+        while pileState != (0, 0):
             print("\n==Bot's Move==")
-            pileState[:] = moveBot(pileState)[:]
-            if pileState == [0, 0]:
+            pileState = moveBot(pileState)
+            if pileState == (0, 0):
                 print("Bot wins!")
                 break
 
@@ -122,7 +131,12 @@ def main():
             print("Pile is at", pileState)
             pile = int(input("Pile 1 or 2?: ")) - 1
             stones = int(input("Enter number of stones to pick: "))
-            pileState[pile] -= stones
+
+            if pile == 0:
+                pileState = (pileState[0] - stones, pileState[1])
+            else:
+                pileState = (pileState[0], pileState[1] - stones)
+                
             print("Pile is now", pileState)
         else:
             print("You win!")
