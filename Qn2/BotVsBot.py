@@ -66,8 +66,11 @@ def minimax(state, maximizingPlayer=True, showOutput=False):
 
 
 def main():
-    # Tweak the start position
-    startPile = [5, 3]
+    # Adjust the start pile
+    startPile = list(map(int, input("Enter the number of stones in each pile: ").split()))
+    while len(startPile) != 2:
+        startPile = list(map(int, input("Enter the number of stones in each pile: ").strip().split()))
+        print("Only 2 piles are possible!")
 
     # Driver code
     result = minimax(startPile, True)
