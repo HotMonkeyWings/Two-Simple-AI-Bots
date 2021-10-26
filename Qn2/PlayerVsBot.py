@@ -118,7 +118,7 @@ def main():
                 print("Bot wins!")
                 break
 
-            print("\n==Player Move==")
+            print("\n==Player's Move==")
             print("Pile is at", pileState)
             pile = int(input("Pile 1 or 2?: ")) - 1
             stones = int(input("Enter number of stones to pick: "))
