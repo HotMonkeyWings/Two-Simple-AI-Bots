@@ -1,13 +1,19 @@
 pathTaken = [
-    dict(),             # Player 1
+    dict(),             # Player 1 
     dict()              # Player 2
 ]
 
-def findMove(startPile, endPile):
-    if startPile[0] == endPile[0]:
-        print("Bot took", startPile[1] - endPile[1],"stones from Pile 2.")
-    if startPile[1] == endPile[1]:
-        print("Bot took", startPile[0] - endPile[0],"stones from Pile 1.")
+def moveBot(startPile):    
+    # Find the new path from pathTaken[] and convert to list.
+    newPile = [pathTaken[1][tuple(startPile)][0], pathTaken[1][tuple(startPile)][1]]
+
+    # Print the move to player
+    if startPile[0] == newPile[0]:
+        print("Bot took", startPile[1] - newPile[1],"stones from Pile 2.")
+    if startPile[1] == newPile[1]:
+        print("Bot took", startPile[0] - newPile[0],"stones from Pile 1.")
+    print("Pile is now", newPile)
+    return newPile
 
 
 def minimax(state, maximizingPlayer=True, showOutput=False):
@@ -74,47 +80,52 @@ def minimax(state, maximizingPlayer=True, showOutput=False):
 
 def main():
     # Adjust the start pile
-    startPile = [5, 3]
+    pileState = list(map(int, input("Enter the number of stones in each pile: ").split()))
+    while len(pileState) != 2:
+        pileState = list(map(int, input("Enter the number of stones in each pile: ").strip().split()))
+        print("Only 2 piles are possible!")
 
-    # Driver code
-    result = minimax(startPile, True)
+    # Choose the move
+    playerStarts = input("Would you like to go first?(Y/N): ")
 
-    # print("Player 1's best moves from reachable state:")
-    # for key in pathTaken[0]:
-    #     print(key, "to", pathTaken[0][key])
+    if playerStarts == "Y":
+        # Driver code
+        result = minimax(pileState, True)
 
-    # print("\nPlayer 2's best moves from reachable state:")
-    # for key in pathTaken[1]:
-    #     print(key, "to", pathTaken[1][key])
-
-    # print()
-    # Setting initial values to traverse through pathsTaken
-    # startPile = tuple(startPile)
-    # toggle = 0                                  # Player 1 always starts.
-    # newPile = pathTaken[toggle][startPile]
+        while pileState != [0, 0]:
+            print("\n==Player Move==")
+            print("Pile is at", pileState)
+            pile = int(input("Pile 1 or 2?: ")) - 1
+            stones = int(input("Enter number of stones to pick: "))
+            pileState[pile] -= stones
+            print("Pile is now", pileState)
+            if pileState == [0, 0]:
+                print("You win!")
+                break
+            print("\n==Bot's Move==")
+            pileState[:] = moveBot(pileState)[:]
+        else:
+            print("\n==Player Move==\nPile is now at [0, 0]\nBot wins!")
     
-    while startPile != [0, 0]:
-        # print("Player", toggle + 1, ":", startPile, "to", newPile)
-        # if newPile == (0, 0):
-        #     print("Hence, Player", toggle + 1, "wins!")
-        #     break
-        # toggle = 0 if toggle == 1 else 1
-        # startPile, newPile = newPile, pathTaken[toggle][newPile]
-
-        print("Pile is at", startPile)
-        pile = int(input("Pile 1 or 2?: ")) - 1
-        stones = int(input("Enter number of stones to pick: "))
-        startPile[pile] -= stones
-        print("Pile is now", startPile)
-        if startPile == [0, 0]:
-            print("You win!")
-            break
-        newPile = [pathTaken[1][tuple(startPile)][0], pathTaken[1][tuple(startPile)][1]]
-        print()
-        findMove(startPile, newPile)
-        startPile[:] = newPile[:]
     else:
-        print("Pile is now at [0, 0]\n Bot wins!")
+        # Driver code
+        result = minimax(pileState, False)
+
+        while pileState != [0, 0]:
+            print("\n==Bot's Move==")
+            pileState[:] = moveBot(pileState)[:]
+            if pileState == [0, 0]:
+                print("Bot wins!")
+                break
+
+            print("\n==Player Move==")
+            print("Pile is at", pileState)
+            pile = int(input("Pile 1 or 2?: ")) - 1
+            stones = int(input("Enter number of stones to pick: "))
+            pileState[pile] -= stones
+            print("Pile is now", pileState)
+        else:
+            print("You win!")
 
 if __name__ == "__main__":
     main()
